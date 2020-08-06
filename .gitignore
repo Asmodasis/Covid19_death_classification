@@ -1,0 +1,5 @@
+#not used
+daily.csv 
+make_date_sets.py
+# Don't include the checkpoint files
+.ipynb_checkpoints/
